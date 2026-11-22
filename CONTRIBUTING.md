@@ -53,7 +53,7 @@ Commits on your branch can be as messy as you like. Only the PR title needs to f
 - Avoid Apple-only APIs (full Foundation, Combine) in the `Crumb` target, so Linux keeps working.
 - Every public symbol needs a doc comment.
 - No compiler warnings.
-- Formatting and linting are enforced by swift-format and SwiftLint (coming in SWI-51).
+- Run `make lint` before opening a PR, and `make format` to fix formatting automatically.
 
 ## File headers
 
