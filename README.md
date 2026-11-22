@@ -70,7 +70,7 @@ Work is tracked in Linear and linked to PRs by ticket ID (for example `SWI-5`).
 
 ## Contributing
 
-Crumb is early and moving fast. Issues and ideas are welcome. See `CONTRIBUTING.md` once it lands.
+Crumb is early and moving fast. Issues and ideas are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 
