@@ -1,5 +1,7 @@
-// The Swift Programming Language
-// https://docs.swift.org/swift-book
+/// Text printed by ``hello()``.
+public let greeting = "Hello, world!"
+
+/// Prints ``greeting`` to standard output.
 public func hello() {
-    print("Hello, world!")
+    print(greeting)
 }
